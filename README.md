@@ -1,3 +1,10 @@
+# Portfolio 
+============================
+Just added a linked batch.
 
-test repo
-for the html hosting
+
+Target ::
+1. Introduction.
+2. Area of intrest.
+3. Few Projects.
+4. CV
