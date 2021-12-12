@@ -1,7 +1,7 @@
 # Portfolio 
 ============================
 
-Just added a linked batch.
+Just added a linkedin batch.
 
 
 Target ::
